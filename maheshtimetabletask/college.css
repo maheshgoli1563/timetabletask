@@ -1,0 +1,54 @@
+div{
+    font-size: 20px;
+    margin-left: 2%;
+    margin-top: 3px;
+    margin-right: 45%;
+    background-color:skyblue  ;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-top: 0%;
+    text-align: center;
+    box-shadow: 4px 5px 18px  grey;
+
+}
+
+table{
+    border-style: inset;
+    border: 2px solid grey;
+
+border-color: brown black black brown;
+    
+}
+.id1{
+    text-align: left;
+}
+td{
+    border: 2px solid #736e6e;
+    border-style: inset;
+   
+}
+h1{
+    color:DARKCYAN;
+}
+.blue{
+    color: blue;
+}
+.red{
+    color:red;
+}
+.salmon{
+    color: salmon;
+}
+.sandybrown{
+    color: sandybrown;
+}
+.brown1{
+    color: brown;
+}
+.brown{
+    color: chocolate;
+}
+.green{
+    color: green;
+}
